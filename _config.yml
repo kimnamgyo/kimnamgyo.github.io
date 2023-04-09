@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "김남교"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "2019250004 김남교입니다."
+  location         : " "
   email            :
   links:
     - label: "Email"
