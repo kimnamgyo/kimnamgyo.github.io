@@ -3271,9 +3271,9 @@ sns.heatmap(cm_matrix, annot=True, fmt='d', cmap='YlGnBu')
 <pre>
 <Axes: >
 </pre>
-<pre>
+
 ![image](https://user-images.githubusercontent.com/122151981/232208702-b27a266b-87df-4c72-b078-ce64b76a5673.png)
-</pre>
+
 # **16. Classification metrices** <a class="anchor" id="16"></a>
 
 
