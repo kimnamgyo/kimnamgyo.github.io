@@ -356,6 +356,8 @@ import warnings
 warnings.filterwarnings('ignore')
 ```
 
+
+
 # **6. Import dataset** <a class="anchor" id="6"></a>
 
 
@@ -365,26 +367,15 @@ from google.colab import files
 myfile = files.upload()
 ```
 
-
-<pre>
-<IPython.core.display.HTML object>
-</pre>
-
-<pre>
-Saving weatherAUS.csv to weatherAUS.csv
-</pre>
-
 ```python
 df = pd.read_csv(io.BytesIO(myfile['weatherAUS.csv']))
 ```
-
 
 # **7. Exploratory data analysis** <a class="anchor" id="7"></a>
 
 
 
 데이터를 탐색해보겠습니다.
-
 
 
 ```python
