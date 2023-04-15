@@ -3640,9 +3640,9 @@ plt.ylabel('Frequency')
 <pre>
 Text(0, 0.5, 'Frequency')
 </pre>
-<pre>
-<Figure size 640x480 with 1 Axes>
-</pre>
+
+![image](https://user-images.githubusercontent.com/122151981/232208942-7195cd71-bb14-407e-a200-f1cb171862c3.png)
+
 ### 관찰
 
 
@@ -3750,9 +3750,8 @@ plt.ylabel('True Positive Rate (Sensitivity)')
 plt.show()
 ```
 
-<pre>
-<Figure size 600x400 with 1 Axes>
-</pre>
+![image](https://user-images.githubusercontent.com/122151981/232208994-436d0899-5bb7-4bc5-a287-2f9ce101bda8.png)
+
 ROC 곡선은 특정 컨텍스트에 대한 민감도와 특수성의 균형을 맞추는 임계값 레벨을 선택하는 데 도움이 됩니다.
 
 
