@@ -365,6 +365,7 @@ from google.colab import files
 myfile = files.upload()
 ```
 
+
 <pre>
 <IPython.core.display.HTML object>
 </pre>
@@ -376,6 +377,7 @@ Saving weatherAUS.csv to weatherAUS.csv
 ```python
 df = pd.read_csv(io.BytesIO(myfile['weatherAUS.csv']))
 ```
+
 
 # **7. Exploratory data analysis** <a class="anchor" id="7"></a>
 
